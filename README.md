@@ -34,8 +34,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta&layout=compact&theme=tokyonight)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushgupta-15&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta-15&layout=compact&theme=tokyonight)
 
 ---
 
