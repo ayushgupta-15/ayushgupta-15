@@ -28,9 +28,9 @@ GLCD + ISR      Cache Simulator   PostgreSQL    Multi-agent
 UART Protocol   Thread Pool       React Native   Neo4j
 ```
 
-ECE student at DTU building across the full stack — from interrupt service routines and kernel modules at the hardware boundary, up through production Go backends and multi-agent LLM systems. Rare depth for an ECE student; rarer still as a 2nd year.
+ECE student at DTU building across the full stack from interrupt service routines and kernel modules at the hardware boundary, up through production Go backends and multi-agent LLM systems.
 
-> Currently targeting: **SDE** · **Core ECE** · **Data Science** roles | Placement 2027
+> Currently targeting: **SDE** · **Core ECE** · **Data Science** roles
 
 ---
 
