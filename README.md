@@ -95,8 +95,6 @@ Open to software engineering internships and full-time roles.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ayushgupta-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <img src="https://leetcard.jacoblin.cool/ashg1511?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" />
 
