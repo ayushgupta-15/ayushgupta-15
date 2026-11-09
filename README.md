@@ -21,8 +21,8 @@ Open to software engineering internships and full-time roles. Portfolio: [ayushp
 
 ## Experience
 
+- **Full Stack Developer Intern, Hibiscustech GR Pvt. Ltd.** (Jul 2025 to present). Next.js web front end and React Native screens for [PsyPlay](https://psyplay.io) (on [Google Play](https://play.google.com/store/apps/details?id=io.psyplay.app) and the [App Store](https://apps.apple.com/us/app/psyplay/id6793650706)), contributions to its Go chess-analysis service, and the company website.
 - **Full Stack Development Intern, EcoXchange Pvt. Ltd.** (Jun to Aug 2026). Google OAuth single sign-on across [EcoXchange](https://www.ecoxchange.in/) and [Campus Kartt](https://www.campuskartt.in/), and build, test and deploy automation with GitHub Actions.
-- **Full Stack Developer Intern, Hibiscustech GR Pvt. Ltd.** (Jul 2025 to Jul 2026). Next.js web front end and React Native screens for [PsyPlay](https://psyplay.io) (on [Google Play](https://play.google.com/store/apps/details?id=io.psyplay.app) and the [App Store](https://apps.apple.com/us/app/psyplay/id6793650706)), contributions to its Go chess-analysis service, and the company website.
 
 ---
 
